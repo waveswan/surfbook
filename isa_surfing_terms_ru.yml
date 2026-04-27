@@ -1,0 +1,746 @@
+# ISA Surfing Rulebook Russian Terminology Glossary
+# Source: ISA Rulebook & Contest Administration Manual, November 2025
+# Purpose: unified terminology for Russian translation, judging education, TopHeats UI, and live commentary.
+# Status values:
+#   approved  - accepted working term
+#   proposed  - recommended, but may need review
+#   discussion - unresolved / needs decision
+
+meta:
+  project: "Перевод учебника/правил ISA по серфингу на русский язык"
+  source_document: "ISA Rulebook & Contest Administration Manual"
+  source_version: "November 2025"
+  glossary_version: "0.1.0"
+  language_from: "en"
+  language_to: "ru"
+  translation_strategy: "профессиональный русский язык с сохранением устоявшихся серф-терминов"
+  notes:
+    - "Один английский термин должен иметь один основной русский эквивалент."
+    - "В первом употреблении спорных англицизмов допускается пояснение в скобках."
+    - "Для интерфейса и трансляций используются короткие формулировки."
+
+terms:
+  competition_format:
+    heat:
+      ru: "хит"
+      status: "approved"
+      note: "Соревновательный этап, в котором участники набирают оценки."
+    round:
+      ru: "раунд"
+      status: "approved"
+    final:
+      ru: "финал"
+      status: "approved"
+    grand_final:
+      en: "grand final"
+      ru: "гранд-финал"
+      status: "approved"
+    repechage:
+      ru: "вторая попытка"
+      status: "approved"
+      note: "В ISA используется как часть double elimination; не переводить как 'репешаж' в основном тексте."
+    double_elimination:
+      en: "double elimination"
+      ru: "система второго шанса"
+      status: "approved"
+    single_elimination:
+      en: "single elimination"
+      ru: "система одного шанса"
+      status: "approved"
+    seeding:
+      ru: "посев"
+      status: "approved"
+    draw:
+      ru: "жеребьевка"
+      status: "approved"
+    division:
+      ru: "дивизион"
+      status: "approved"
+    advancement:
+      ru: "проход дальше"
+      status: "proposed"
+    eliminated:
+      ru: "выбывает"
+      status: "proposed"
+    team_points:
+      en: "team points"
+      ru: "командные очки"
+      status: "approved"
+    placing:
+      ru: "место"
+      status: "approved"
+    tie_break:
+      en: "tie-break"
+      ru: "разрешение равенства"
+      status: "proposed"
+
+  judging:
+    judging:
+      ru: "судейство"
+      status: "approved"
+    judging_criteria:
+      en: "judging criteria"
+      ru: "критерии судейства"
+      status: "approved"
+    judge:
+      ru: "судья"
+      status: "approved"
+    judging_panel:
+      en: "judging panel"
+      ru: "судейская панель"
+      status: "approved"
+    head_judge:
+      en: "head judge"
+      ru: "главный судья"
+      status: "approved"
+    priority_judge:
+      en: "priority judge"
+      ru: "судья приоритета"
+      status: "approved"
+    scoring_judge:
+      en: "scoring judge"
+      ru: "судья оценки"
+      status: "proposed"
+    scoring:
+      ru: "оценивание"
+      status: "approved"
+    score:
+      ru: "оценка"
+      status: "approved"
+    wave_score:
+      en: "wave score"
+      ru: "оценка волны"
+      status: "approved"
+    wave_score_average:
+      en: "wave score average"
+      ru: "средняя оценка волны"
+      status: "approved"
+    heat_total:
+      en: "heat total"
+      ru: "итоговая оценка"
+      status: "approved"
+    best_waves:
+      en: "best waves"
+      ru: "лучшие волны"
+      status: "approved"
+    missed_wave:
+      en: "missed wave"
+      ru: "пропущенная волна"
+      status: "approved"
+    official_result:
+      en: "official result"
+      ru: "официальный результат"
+      status: "approved"
+    unofficial_result:
+      en: "unofficial result"
+      ru: "предварительный результат"
+      status: "approved"
+    protest:
+      ru: "протест"
+      status: "approved"
+
+  priority_and_interference:
+    priority:
+      ru: "приоритет"
+      status: "approved"
+    priority_system:
+      en: "priority system"
+      ru: "система приоритета"
+      status: "approved"
+    right_of_way:
+      en: "right of way"
+      ru: "право приоритета"
+      status: "approved"
+    priority_violation:
+      en: "priority violation"
+      ru: "нарушение приоритета"
+      status: "approved"
+    interference:
+      ru: "помеха"
+      status: "approved"
+      note: "Не переводить как 'штраф': interference — факт помехи, penalty — наказание за неё."
+    interference_penalty:
+      en: "interference penalty"
+      ru: "штраф за помеху"
+      status: "approved"
+    interference_penalty_1:
+      en: "interference penalty 1"
+      ru: "штраф за помеху (тип 1)"
+      status: "approved"
+      note: "В ISA: вторая лучшая оценка участника уменьшается вдвое."
+    interference_penalty_2:
+      en: "interference penalty 2"
+      ru: "штраф за помеху (тип 2)"
+      status: "approved"
+      note: "В ISA: вторая лучшая оценка участника засчитывается как 0."
+    interference_penalty_3:
+      en: "interference penalty 3"
+      ru: "штраф за помеху (тип 3)"
+      status: "approved"
+      note: "В ISA: лучшая оценка участника засчитывается как 0."
+    double_interference:
+      en: "double interference"
+      ru: "двойная помеха"
+      status: "approved"
+    snaking:
+      ru: "снейкинг (перехват)"
+      status: "approved"
+    paddling_interference:
+      en: "paddling interference"
+      ru: "помеха при разгребании"
+      status: "proposed"
+    excessive_hassling:
+      en: "excessive hassling"
+      ru: "чрезмерное давление"
+      status: "proposed"
+    blocking_rule:
+      en: "blocking rule"
+      ru: "правило блокировки"
+      status: "approved"
+    primary_take_off_zone:
+      en: "primary take-off zone"
+      ru: "основная зона тейкофа"
+      status: "proposed"
+    no_priority:
+      en: "no priority"
+      ru: "без приоритета"
+      status: "approved"
+
+  waves_and_ocean:
+    wave:
+      ru: "волна"
+      status: "approved"
+    wave_count:
+      en: "wave count"
+      ru: "лимит волн"
+      status: "approved"
+    ride:
+      ru: "проезд"
+      status: "approved"
+    take_off:
+      en: "take-off"
+      ru: "тейкоф (старт с волны)"
+      status: "approved"
+    line_up:
+      en: "line-up"
+      ru: "лайнап"
+      status: "approved"
+    set:
+      ru: "сет"
+      status: "approved"
+    wave_face:
+      en: "wave face"
+      ru: "стенка волны"
+      status: "approved"
+    lip:
+      ru: "лип"
+      status: "approved"
+      note: "Верхняя ломающаяся часть волны."
+    pocket:
+      ru: "карман волны"
+      status: "approved"
+      note: "Наиболее мощная зона волны."
+    shoulder:
+      ru: "плечо волны"
+      status: "approved"
+    critical_section:
+      en: "critical section"
+      ru: "критическая секция волны"
+      status: "approved"
+    whitewater:
+      ru: "пена"
+      status: "approved"
+    impact_zone:
+      en: "impact zone"
+      ru: "зона обрушения"
+      status: "approved"
+    take_off_zone:
+      en: "take-off zone"
+      ru: "зона тейкофа"
+      status: "approved"
+    contestable_surf_conditions:
+      en: "contestable surf conditions"
+      ru: "условия, пригодные для соревнований"
+      status: "approved"
+    field_of_play:
+      en: "field of play"
+      ru: "зона соревнований"
+      status: "approved"
+    competition_area:
+      en: "competition area"
+      ru: "зона соревнований"
+      status: "approved"
+    buffer_zone:
+      en: "buffer zone"
+      ru: "буферная зона"
+      status: "approved"
+
+  maneuvers:
+    maneuver:
+      ru: "манёвр"
+      status: "approved"
+    major_maneuver:
+      en: "major maneuver"
+      ru: "ключевой манёвр"
+      status: "approved"
+    cutback:
+      ru: "катбэк"
+      status: "approved"
+      note: "Разворот обратно к пене."
+    bottom_turn:
+      en: "bottom turn"
+      ru: "боттом-терн"
+      status: "approved"
+      note: "Поворот в нижней части волны."
+    top_turn:
+      en: "top turn"
+      ru: "топ-терн"
+      status: "approved"
+    re_entry:
+      en: "re-entry"
+      ru: "ре-энтри"
+      status: "approved"
+    floater:
+      ru: "флоатер"
+      status: "approved"
+    snap:
+      ru: "снап"
+      status: "approved"
+    aerial:
+      ru: "эйр"
+      status: "proposed"
+      alt:
+        - "эйриал"
+    tube:
+      ru: "труба"
+      status: "approved"
+    barrel:
+      ru: "баррел"
+      status: "approved"
+    rail_surfing:
+      en: "rail surfing"
+      ru: "серфинг на рейле"
+      status: "proposed"
+    nose_riding:
+      en: "nose riding"
+      ru: "ноузрайдинг"
+      status: "approved"
+    footwork:
+      ru: "работа ног"
+      status: "approved"
+
+  judging_criteria_detail:
+    commitment:
+      ru: "решительность"
+      status: "approved"
+      note: "Степень риска, уверенности и готовности выполнять манёвры в критических секциях."
+    degree_of_difficulty:
+      en: "degree of difficulty"
+      ru: "степень сложности"
+      status: "approved"
+    innovative:
+      ru: "оригинальность"
+      status: "proposed"
+      alt:
+        - "инновационность"
+    progressive:
+      ru: "прогрессивность"
+      status: "approved"
+    innovative_and_progressive_maneuvers:
+      en: "innovative and progressive maneuvers"
+      ru: "оригинальные и прогрессивные манёвры"
+      status: "proposed"
+    combination_of_major_maneuvers:
+      en: "combination of major maneuvers"
+      ru: "комбинация ключевых манёвров"
+      status: "approved"
+    variety:
+      ru: "разнообразие"
+      status: "approved"
+    speed:
+      ru: "скорость"
+      status: "approved"
+    power:
+      ru: "мощность"
+      status: "approved"
+    flow:
+      ru: "плавность"
+      status: "approved"
+      note: "Связность и непрерывность проезда."
+    speed_power_flow:
+      en: "speed, power and flow"
+      ru: "скорость, мощность и плавность"
+      status: "approved"
+    control:
+      ru: "контроль"
+      status: "approved"
+    style:
+      ru: "стиль"
+      status: "approved"
+    amplitude:
+      ru: "амплитуда"
+      status: "approved"
+    clean_execution:
+      en: "clean execution"
+      ru: "чистое исполнение"
+      status: "approved"
+    scoring_potential:
+      en: "scoring potential"
+      ru: "потенциал оценки"
+      status: "approved"
+
+  roles:
+    competitor:
+      ru: "участник"
+      status: "approved"
+    surfer:
+      ru: "серфер"
+      status: "approved"
+    athlete:
+      ru: "спортсмен"
+      status: "approved"
+    team:
+      ru: "команда"
+      status: "approved"
+    team_manager:
+      en: "team manager"
+      ru: "менеджер команды"
+      status: "approved"
+    coach:
+      ru: "тренер"
+      status: "approved"
+    official:
+      ru: "официальный представитель"
+      status: "approved"
+    contest_director:
+      en: "contest director"
+      ru: "директор соревнований"
+      status: "approved"
+    technical_director:
+      en: "technical director"
+      ru: "технический директор"
+      status: "approved"
+    tabulator:
+      ru: "табулятор"
+      status: "proposed"
+      note: "Ответственный за сведение/проверку оценок. Возможно: 'секретарь подсчёта'."
+    beach_marshal:
+      en: "beach marshal"
+      ru: "бич-маршал"
+      status: "proposed"
+    beach_announcer:
+      en: "beach announcer"
+      ru: "комментатор на пляже"
+      status: "approved"
+    scoring_computer_operator:
+      en: "scoring computer operator"
+      ru: "оператор системы подсчёта"
+      status: "approved"
+    spotter:
+      ru: "споттер"
+      status: "approved"
+    caddy:
+      ru: "кэдди"
+      status: "approved"
+    water_photographer:
+      en: "water photographer"
+      ru: "водный фотограф"
+      status: "approved"
+    race_director:
+      en: "race director"
+      ru: "директор гонки"
+      status: "approved"
+    beachmaster:
+      ru: "бич-мастер"
+      status: "proposed"
+
+  procedures:
+    heat_start:
+      en: "heat start"
+      ru: "старт хита"
+      status: "approved"
+    heat_end:
+      en: "heat end"
+      ru: "завершение хита"
+      status: "approved"
+    heat_restart:
+      en: "heat restart"
+      ru: "перезапуск хита"
+      status: "approved"
+    heat_interruption:
+      en: "heat interruption"
+      ru: "остановка хита"
+      status: "approved"
+    heat_suspension:
+      en: "heat suspension"
+      ru: "приостановка хита"
+      status: "approved"
+    resurf:
+      ru: "перезаплыв"
+      status: "approved"
+    re_surf:
+      en: "re-surf"
+      ru: "перезаплыв"
+      status: "approved"
+    disqualification:
+      ru: "дисквалификация"
+      status: "approved"
+      acronym: "DSQ"
+    no_show:
+      en: "no-show"
+      ru: "неявка"
+      status: "approved"
+      acronym: "DNS"
+    injury:
+      ru: "травма"
+      status: "approved"
+      acronym: "INJ"
+    paddle_out:
+      en: "paddle out"
+      ru: "выход в лайнап"
+      status: "proposed"
+    paddle_in:
+      en: "paddle in"
+      ru: "возвращение на берег"
+      status: "proposed"
+    marshalling_area:
+      en: "marshalling area"
+      ru: "зона ожидания"
+      status: "proposed"
+    official_timing:
+      en: "official timing"
+      ru: "официальный хронометраж"
+      status: "approved"
+    siren:
+      ru: "сирена"
+      status: "approved"
+    horn_blast:
+      en: "horn blast"
+      ru: "звуковой сигнал"
+      status: "approved"
+    timing_disc:
+      en: "timing disc"
+      ru: "диск времени"
+      status: "approved"
+    countdown:
+      ru: "обратный отсчёт"
+      status: "approved"
+    false_start:
+      en: "false start"
+      ru: "фальстарт"
+      status: "approved"
+    outside_assistance:
+      en: "outside assistance"
+      ru: "посторонняя помощь"
+      status: "approved"
+
+  equipment:
+    surfboard:
+      ru: "серфборд"
+      status: "approved"
+    longboard:
+      ru: "лонгборд"
+      status: "approved"
+    bodyboard:
+      ru: "бодиборд"
+      status: "approved"
+    kneeboard:
+      ru: "ниборд"
+      status: "proposed"
+    sup:
+      en: "SUP"
+      ru: "SUP"
+      status: "approved"
+    paddleboard:
+      ru: "падлборд"
+      status: "approved"
+    leash:
+      ru: "лиш"
+      status: "approved"
+    legrope:
+      ru: "лиш"
+      status: "approved"
+    fins:
+      ru: "плавники"
+      status: "approved"
+    deck_pad:
+      en: "deck pad"
+      ru: "дек-пад"
+      status: "approved"
+    wax:
+      ru: "вакс"
+      status: "approved"
+    contest_vest:
+      en: "contest vest"
+      ru: "соревновательная майка"
+      status: "approved"
+    contest_singlet:
+      en: "contest singlet"
+      ru: "соревновательная майка"
+      status: "approved"
+    competition_jersey:
+      en: "competition jersey"
+      ru: "соревновательная майка"
+      status: "approved"
+    pwc:
+      en: "Personal Watercraft"
+      ru: "гидроцикл"
+      status: "approved"
+    helmet:
+      ru: "шлем"
+      status: "approved"
+
+ui:
+  labels:
+    heat: "Хит"
+    round: "Раунд"
+    division: "Дивизион"
+    time_left: "Осталось"
+    priority: "Приоритет"
+    score: "Оценка"
+    total: "Итог"
+    heat_total: "Итоговая оценка"
+    best_waves: "Лучшие волны"
+    wave_count: "Лимит волн"
+    interference: "Помеха"
+    penalty: "Штраф"
+    protest: "Протест"
+  statuses:
+    leading: "Лидирует"
+    needs_score: "Нужно"
+    eliminated: "Не проходит"
+    advancing: "Проходит"
+    priority_yes: "С приоритетом"
+    priority_no: "Без приоритета"
+    priority_first: "1-й приоритет"
+    priority_second: "2-й приоритет"
+    no_priority: "Без приоритета"
+  messages:
+    need_to_win: "Нужно {score} для 1 места"
+    need_to_advance: "Нужно {score} для прохода"
+    not_enough: "Недостаточно"
+    now_first: "Выходит на 1 место"
+    second_wave_halved: "2-я волна уменьшена"
+    wave_zero: "Оценка обнулена"
+    heat_started: "Хит начался"
+    heat_finished: "Хит завершён"
+
+live_commentary:
+  style_rules:
+    max_words: 8
+    prefer_colors_over_names: true
+    numbers_first: true
+    avoid_long_explanations: true
+  phrases:
+    heat_start:
+      - "Старт хита"
+      - "Хит начался"
+    heat_end:
+      - "Хит завершён"
+    last_5_minutes:
+      - "Последние 5 минут"
+    last_60_seconds:
+      - "Последняя минута"
+    time_left:
+      - "Осталось {time}"
+    wave_scored:
+      high:
+        - "Отличная волна — {score}"
+      medium:
+        - "Хорошая волна — {score}"
+      default:
+        - "Оценка: {score}"
+    position_changed:
+      first:
+        - "{color} выходит на первое место"
+      other:
+        - "{color} поднимается на {position} место"
+    need_score:
+      - "Нужно {score} для первого места"
+      - "Нужно {score} для прохода"
+    after_wave:
+      enough:
+        - "Этого хватает — выходит вперёд"
+      close:
+        - "Почти — немного не хватает"
+      not_enough:
+        - "Недостаточно"
+    priority:
+      - "Приоритет у {color}"
+      - "{color} с приоритетом"
+    priority_changed:
+      - "Приоритет переходит к {color}"
+      - "{color} получает приоритет"
+    interference:
+      - "Зафиксирована помеха"
+      - "Помеха против {color}"
+    interference_effect:
+      - "Оценка обнулена"
+      - "Вторая волна уменьшена"
+    maneuvers:
+      - "Хороший боттом-терн"
+      - "Отличный катбэк"
+      - "Мощный ре-энтри"
+      - "Работает в критической секции"
+      - "Работает в кармане волны"
+    drama:
+      needs_wave_last_minute:
+        - "Нужна волна прямо сейчас"
+      last_seconds:
+        - "Последние секунды"
+      late_leader_change:
+        - "Разворот в самом конце"
+
+auto_commentator:
+  events:
+    - "HEAT_START"
+    - "HEAT_END"
+    - "TIME_UPDATE"
+    - "WAVE_SCORED"
+    - "TOTAL_CHANGED"
+    - "POSITION_CHANGED"
+    - "PRIORITY_CHANGED"
+    - "NEED_UPDATED"
+    - "INTERFERENCE_CALLED"
+    - "INTERFERENCE_EFFECT"
+    - "LAST_5_MIN"
+    - "LAST_60_SEC"
+    - "BUZZER"
+  cooldown_seconds:
+    NEED_UPDATED: 10
+    PRIORITY_CHANGED: 5
+    TIME_UPDATE: 30
+    WAVE_SCORED: 3
+    POSITION_CHANGED: 5
+    INTERFERENCE_CALLED: 1
+  rules:
+    WAVE_SCORED:
+      - condition: "score >= 7"
+        phrase_key: "live_commentary.phrases.wave_scored.high"
+      - condition: "score >= 5"
+        phrase_key: "live_commentary.phrases.wave_scored.medium"
+      - condition: "default"
+        phrase_key: "live_commentary.phrases.wave_scored.default"
+    POSITION_CHANGED:
+      - condition: "new_position == 1"
+        phrase_key: "live_commentary.phrases.position_changed.first"
+      - condition: "default"
+        phrase_key: "live_commentary.phrases.position_changed.other"
+    NEED_UPDATED:
+      - condition: "needs_for == 'win'"
+        phrase: "Нужно {score} для первого места"
+      - condition: "needs_for == 'advance'"
+        phrase: "Нужно {score} для прохода"
+    AFTER_WAVE:
+      - condition: "score >= need"
+        phrase_key: "live_commentary.phrases.after_wave.enough"
+      - condition: "score >= need - 0.5"
+        phrase_key: "live_commentary.phrases.after_wave.close"
+      - condition: "default"
+        phrase_key: "live_commentary.phrases.after_wave.not_enough"
+    PRIORITY_CHANGED:
+      - condition: "default"
+        phrase_key: "live_commentary.phrases.priority_changed"
+    INTERFERENCE_CALLED:
+      - condition: "default"
+        phrase_key: "live_commentary.phrases.interference"
