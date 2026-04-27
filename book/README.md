@@ -9,8 +9,8 @@ Russian drafts use terminology from `isa_surfing_terms_ru.yml` first, then the W
 
 ### Front matter
 
-- Front matter / Foreword: [en](Front%20matter/00_1_foreword__en.md) | [ru](Front%20matter/00_1_foreword__ru.md)
-- Front matter / Introduction and Acknowledgments: [en](Front%20matter/00_2_introduction_and_acknowledgments__en.md) | [ru](Front%20matter/00_2_introduction_and_acknowledgments__ru.md)
+- Foreword: [en](Front%20matter/00_1_foreword__en.md) | [ru](Front%20matter/00_1_foreword__ru.md)
+- Introduction and Acknowledgments: [en](Front%20matter/00_2_introduction_and_acknowledgments__en.md) | [ru](Front%20matter/00_2_introduction_and_acknowledgments__ru.md)
 
 ### Module 1
 
@@ -18,7 +18,7 @@ Russian drafts use terminology from `isa_surfing_terms_ru.yml` first, then the W
 - Expectations of a Judge: [en](Module%201/1_2_expectations_of_a_judge__en.md) | [ru](Module%201/1_2_expectations_of_a_judge__ru.md)
 - Legal Responsibilities: [en](Module%201/1_3_legal_responsibilities__en.md) | [ru](Module%201/1_3_legal_responsibilities__ru.md)
 - Points to Consider When Judging: [en](Module%201/1_4_points_to_consider_when_judging__en.md) | [ru](Module%201/1_4_points_to_consider_when_judging__ru.md)
-- Module 2 / Degree of Difficulty and Definitions: [en](Module%202/2_1_degree_of_difficulty_and_definitions__en.md) | [ru](Module%202/2_1_degree_of_difficulty_and_definitions__ru.md)
+- Degree of Difficulty and Definitions: [en](Module%202/2_1_degree_of_difficulty_and_definitions__en.md) | [ru](Module%202/2_1_degree_of_difficulty_and_definitions__ru.md)
 
 ### Module 2
 
