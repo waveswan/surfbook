@@ -1,0 +1,149 @@
+# ISA Surfing Terminology — Approved Russian Glossary
+# TopHeats · https://topheats.ru
+#
+# One term = one meaning.
+# Do NOT invent synonyms or change approved translations.
+
+# ──────────────────────────────────────────────
+# Competition structure / Структура соревнования
+# ──────────────────────────────────────────────
+competition: соревнование
+event: ивент
+round: раунд
+opening_round: первый раунд
+repechage: репешаж
+quarterfinal: четвертьфинал
+semifinal: полуфинал
+final: финал
+heat: хит
+wildcard: уайлдкард
+seed: сеяный
+draw: жеребьёвка
+schedule: расписание
+venue: место проведения
+
+# ──────────────────────────────────────────────
+# Athletes / Спортсмены
+# ──────────────────────────────────────────────
+surfer: серфер
+athlete: спортсмен
+competitor: участник
+team: команда
+coach: тренер
+
+# ──────────────────────────────────────────────
+# Scoring / Оценки
+# ──────────────────────────────────────────────
+score: оценка
+wave_score: оценка волны
+heat_total: сумма за хит
+best_two_waves: лучшие две волны
+perfect_score: идеальная оценка        # 10.00
+excellent_range: отличный диапазон     # 8.0–10.0
+good_range: хороший диапазон           # 6.0–7.9
+average_range: средний диапазон        # 4.0–5.9
+fair_range: удовлетворительный диапазон # 2.0–3.9
+poor_range: слабый диапазон            # 0.1–1.9
+needs_score: нужная оценка
+combination_situation: комбинационная ситуация
+
+# ──────────────────────────────────────────────
+# Judging criteria / Критерии судейства
+# ──────────────────────────────────────────────
+commitment: вовлечённость
+degree_of_difficulty: сложность
+innovative_maneuvers: инновационные манёвры
+combination: комбинация
+variety: разнообразие
+speed: скорость
+power: мощность
+flow: ритм
+
+# ──────────────────────────────────────────────
+# Priority & right of way / Приоритет
+# ──────────────────────────────────────────────
+priority: приоритет
+right_of_way: право на волну
+priority_surfer: серфер с приоритетом
+inside_surfer: внутренний серфер
+outside_surfer: внешний серфер
+priority_flag: флаг приоритета
+priority_vest: жилет приоритета
+
+# ──────────────────────────────────────────────
+# Violations & penalties / Нарушения и штрафы
+# ──────────────────────────────────────────────
+interference: помеха
+major_interference: грубая помеха
+minor_interference: незначительная помеха
+penalty: штраф
+interference_penalty: штраф за помеху
+wave_score_zeroed: оценка обнулена
+disqualification: дисквалификация
+
+# ──────────────────────────────────────────────
+# Wave count / Лимит волн
+# ──────────────────────────────────────────────
+wave_count: лимит волн
+wave_ridden: оценённая волна
+wave_attempt: попытка
+excess_wave: лишняя волна
+
+# ──────────────────────────────────────────────
+# Heat procedure / Процедура хита
+# ──────────────────────────────────────────────
+heat_start: старт хита
+heat_end: конец хита
+remaining_time: оставшееся время
+horn: сирена
+green_flag: зелёный флаг
+yellow_flag: жёлтый флаг
+red_flag: красный флаг
+jersey: жилет
+yellow_jersey: жёлтый жилет
+red_jersey: красный жилет
+white_jersey: белый жилет
+black_jersey: чёрный жилет
+
+# ──────────────────────────────────────────────
+# Judges / Судьи
+# ──────────────────────────────────────────────
+judge: судья
+head_judge: главный судья
+panel: судейская коллегия
+interference_judge: судья по помехам
+priority_judge: судья по приоритету
+
+# ──────────────────────────────────────────────
+# Surfing maneuvers / Манёвры
+# ──────────────────────────────────────────────
+cutback: катбэк
+floater: флоатер
+tube: труба
+barrel: труба
+aerial: аэриал
+snap: снэп
+top_turn: верхний поворот
+bottom_turn: нижний поворот
+carve: карв
+360: 360
+full_rotation: полный оборот
+reverse: реверс
+alley_oop: эли-уп
+kickflip: кикфлип
+re_entry: ре-энтри
+closeout: закрытая волна
+section: секция
+lip: губа волны
+
+# ──────────────────────────────────────────────
+# Ocean / Океан
+# ──────────────────────────────────────────────
+wave: волна
+set: сет
+peak: пик
+lineup: лайнап
+break: брейк
+offshore: офшор
+onshore: оншор
+swell: свелл
