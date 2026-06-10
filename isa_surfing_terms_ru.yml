@@ -87,7 +87,7 @@ terms:
       status: "approved"
     judging_panel:
       en: "judging panel"
-      ru: "судейская панель"
+      ru: "судейская бригада"
       status: "approved"
     head_judge:
       en: "head judge"
