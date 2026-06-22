@@ -307,10 +307,31 @@ terms:
       ru: "снэп"
       status: "approved"
     aerial:
-      ru: "эйр"
-      status: "proposed"
+      ru: "эйр (вылет)"
+      status: "approved"
       alt:
+        - "эйры (вылеты)"
+        - "эйр"
+        - "эйры"
         - "эйриал"
+    chop_hop:
+      en: "chop hop"
+      ru: "чоп-хоп"
+      status: "approved"
+      alt:
+        - "чоп-хопы"
+    air_reverse:
+      en: "air reverse"
+      ru: "эйр-реверс"
+      status: "approved"
+    toe_side_rail:
+      en: "toe-side rail"
+      ru: "рейл со стороны носков"
+      status: "approved"
+    heel_side_rail:
+      en: "heel-side rail"
+      ru: "рейл со стороны пяток"
+      status: "approved"
     tube:
       ru: "труба"
       status: "approved"
