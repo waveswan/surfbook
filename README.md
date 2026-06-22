@@ -1,4 +1,4 @@
-# 🏄‍♂️ ISA Surfing Rulebook — Русский перевод
+# 🏄‍♂️ Surfing Rulebook — Русский перевод
 
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)]()
 [![Language](https://img.shields.io/badge/language-Russian-blue)]()
