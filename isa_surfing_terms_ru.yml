@@ -233,7 +233,7 @@ terms:
       ru: "стенка волны"
       status: "approved"
     lip:
-      ru: "лип"
+      ru: "лип (гребень)"
       status: "approved"
       note: "Верхняя ломающаяся часть волны."
     pocket:
@@ -281,7 +281,7 @@ terms:
       status: "approved"
     major_maneuver:
       en: "major maneuver"
-      ru: "ключевой манёвр"
+      ru: "основной манёвр"
       status: "approved"
     cutback:
       ru: "катбэк"
@@ -304,7 +304,7 @@ terms:
       ru: "флоатер"
       status: "approved"
     snap:
-      ru: "снап"
+      ru: "снэп"
       status: "approved"
     aerial:
       ru: "эйр"
@@ -421,16 +421,16 @@ terms:
       ru: "технический директор"
       status: "approved"
     tabulator:
-      ru: "табулятор"
-      status: "proposed"
-      note: "Ответственный за сведение/проверку оценок. Возможно: 'секретарь подсчёта'."
+      ru: "секретарь"
+      status: "approved"
+      note: "Ответственный за сведение/проверку оценок."
     beach_marshal:
       en: "beach marshal"
       ru: "бич-маршал"
       status: "proposed"
     beach_announcer:
       en: "beach announcer"
-      ru: "комментатор на пляже"
+      ru: "комментатор на пляже (бич-эннаунсер)"
       status: "approved"
     scoring_computer_operator:
       en: "scoring computer operator"
@@ -497,7 +497,7 @@ terms:
       acronym: "INJ"
     paddle_out:
       en: "paddle out"
-      ru: "выход в лайнап"
+      ru: "выход в лайнап (выгребать)"
       status: "proposed"
     paddle_in:
       en: "paddle in"
@@ -510,7 +510,7 @@ terms:
     official_timing:
       en: "official timing"
       ru: "официальный хронометраж"
-      status: "approved"
+      status: "proposed"
     siren:
       ru: "сирена"
       status: "approved"
@@ -521,7 +521,7 @@ terms:
     timing_disc:
       en: "timing disc"
       ru: "диск времени"
-      status: "approved"
+      status: "proposed"
     countdown:
       ru: "обратный отсчёт"
       status: "approved"
@@ -549,7 +549,7 @@ terms:
       status: "proposed"
     sup:
       en: "SUP"
-      ru: "SUP"
+      ru: "САП"
       status: "approved"
     paddleboard:
       ru: "падлборд"
@@ -568,7 +568,7 @@ terms:
       ru: "дек-пад"
       status: "approved"
     wax:
-      ru: "вакс"
+      ru: "вакса"
       status: "approved"
     contest_vest:
       en: "contest vest"
